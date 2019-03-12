@@ -1,0 +1,36 @@
+{	
+	"DEMO": {
+		"GOOGLE": "http://www.google.com",
+		"SHOPI": "http://automationpractice.com/index.php"
+	},
+	
+	"SIT": {
+		"GOOGLE": "http://www.google.com",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es"
+	},
+	
+	"DEV": {
+		"GOOGLE": "http://www.google.com",
+		"ACCENTURE_MX": "https://www.accenture.com/mx-es"
+		},
+	
+	"PHPTRA": {
+		"GOOGLE": "http://www.google.com",
+		"TRAVEL": "https://www.phptravels.net"
+		},
+	
+	"SHOP": {
+		"GOOGLE": "http://www.google.com",
+		"SHOPI": "http://automationpractice.com/index.php"
+		},
+	
+	"BAS": {
+		"GOOGLE": "http://www.google.com",
+		"BASI": "http://book.theautomatedtester.co.uk/"
+		},
+	
+	"FIF": {
+		"GOOGLE": "http://www.google.com",
+		"FIFT": "http://automationpractice.com/index.php"
+		}
+}
